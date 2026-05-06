@@ -1,0 +1,105 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "sequoia",
+  "name": "Staff Handbook",
+  "description": "Staff-handbook",
+  "colors": {
+    "primary": "#e2a9f1",
+    "light": "#f4c9ff",
+    "dark": "#dd87f2"
+  },
+  "favicon": "/images/Hauntstaff.png",
+  "icons": {
+    "library": "lucide"
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  },
+  "contextual": {
+    "options": ["copy", "view", "assistant", "mcp", "add-mcp"]
+  },
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Website",
+          "icon": "app-window",
+          "color": {
+            "light": "#ffffff",
+            "dark": "#ffffff"
+          },
+          "href": "https://haunt.site"
+        },
+        {
+          "anchor": "Discord",
+          "icon": "headset",
+          "color": {
+            "light": "#ffffff",
+            "dark": "#ffffff"
+          },
+          "href": "https://haunt.site/discord"
+        }
+      ]
+    },
+    "directory": "card",
+    "groups": [
+      {
+        "group": "Infroduction",
+        "expanded": true,
+        "pages": [
+          "welcome",
+          "quotas"
+        ]
+      },
+      {
+        "group": "Conduct",
+        "expanded": true,
+        "pages": [
+          "staff-guidelines",
+          "reporting-misconduct"
+        ]
+      },
+      {
+        "group": "Moderation",
+        "pages": [
+          "handling-moderations",
+          "untitled-page",
+          "command-abuse"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "handling-threads",
+          "helping-members",
+          "general-questions"
+        ]
+      }
+    ]
+  },
+  "logo": "/images/Hauntstaff.png",
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "linkedin": "https://linkedin.com/company/yourcompany"
+    }
+  },
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
+  "banner": {
+    "content": "This handbook is a work-in-progress, and is actively being written",
+    "dismissible": false
+  },
+  "metadata": {
+    "timestamp": true
+  }
+}
