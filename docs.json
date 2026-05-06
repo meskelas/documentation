@@ -64,6 +64,7 @@
         "pages": [
           "handling-moderations",
           "untitled-page",
+          "untitled-page",
           "command-abuse"
         ]
       },
@@ -72,6 +73,16 @@
         "pages": [
           "handling-threads",
           "general-questions"
+        ]
+      },
+      {
+        "group": "Human Resources",
+        "hidden": true,
+        "pages": [
+          "punishments",
+          "promotions",
+          "absences",
+          "hiring"
         ]
       }
     ]
