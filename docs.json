@@ -78,10 +78,11 @@
         "group": "Human Resources",
         "hidden": true,
         "pages": [
+          "information",
           "punishments",
           "promotions",
-          "absences",
-          "hiring"
+          "hiring",
+          "absences"
         ]
       }
     ]
