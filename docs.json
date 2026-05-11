@@ -106,7 +106,7 @@
   },
   "banner": {
     "content": "This handbook is a work-in-progress, and is actively being written",
-    "dismissible": false
+    "dismissible": true
   },
   "metadata": {
     "timestamp": true
