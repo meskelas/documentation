@@ -8,7 +8,7 @@
     "light": "#f4c9ff",
     "dark": "#dd87f2"
   },
-  "favicon": "/images/Hauntstaff.png",
+  "favicon": "",
   "icons": {
     "library": "lucide"
   },
@@ -92,13 +92,13 @@
     "links": [],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Website",
+      "href": "https://haunt.site"
     }
   },
   "footer": {
     "socials": {
-      "linkedin": "https://linkedin.com/company/yourcompany"
+      "linkedin": ""
     }
   },
   "appearance": {
